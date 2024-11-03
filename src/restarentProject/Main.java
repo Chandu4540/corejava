@@ -10,7 +10,7 @@ public class Main {
 	public static void menu()
 	{
 		System.out.println("-_-_-_-_-_-_-_-_-_-_-_-_-_");
-		System.out.println("|tWELCOME to Our Restarent");
+		System.out.println("\tWELCOME to Our Restarent");
 		System.out.println("\tRestarent Menu :");
 		System.out.println("\t1.Barger BDT $80.00");
 		System.out.println("\t2.Pizza BDT $100.00");
